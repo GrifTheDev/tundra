@@ -1,0 +1,22 @@
+{
+  "name": "tundra",
+  "version": "0.1.0",
+  "description": "Tundra is an all in one, customizable Discord bot. Full with features such as a reputation system, a suggestion system, fun commands and more - this bot carries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grif-Real/tundra.git"
+  },
+  "keywords": [
+    "tundra"
+  ],
+  "author": "Grif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grif-Real/tundra/issues"
+  },
+  "homepage": "https://github.com/Grif-Real/tundra#readme"
+}
