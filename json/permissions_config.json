@@ -1,0 +1,9 @@
+{
+    "deleteMessageOnInvalidPerms": true,
+    "deleteUserCommandOnInvalidPerms": true,
+    "deleteMessageAfter": 5,
+    "replyOnInvalidPerms": true,
+    "replyOnInvalidPermsForm": "embed",
+    "replyOnInvalidPermsMessage": "Whoops, it seems like you are missing the following permissions to run the `{commandName}` command: `{missingPerms}`.",
+    "pingOnInvalidPermsMessage": false
+}

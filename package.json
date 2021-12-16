@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Grif-Real/tundra/issues"
   },
-  "homepage": "https://github.com/Grif-Real/tundra#readme"
+  "homepage": "https://github.com/Grif-Real/tundra#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.1.2"
+  }
 }

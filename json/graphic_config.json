@@ -1,0 +1,9 @@
+{ 
+    "error_color": "#ff7d7d",
+    "tickEmoji": "✅",
+    "XEmoji": "❌",
+    "infoEmoji": "ℹ",
+    "defaultColor": "#51ff7b",
+    "botStatus": "ping pong",
+    "statusType": "PLAYING"
+}
